@@ -6,14 +6,19 @@ body {
   padding: 1px 25px;
 }
 
-.header-col {
-  display: inline-block;
-  width: 33%;
+#bobimage {
+  height: 120%;
 }
 
 .button {
   background: #FCDD09;
 }
+
+.scale-with-grid {
+  max-width: 100%;
+  height: auto;
+}
+
 .textpanel {
   background: #EFF193;
   border-width: 0px;
